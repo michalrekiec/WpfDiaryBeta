@@ -1,0 +1,15 @@
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\StudentDiary.exe.config
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\StudentDiary.exe
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\StudentDiary.pdb
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csprojAssemblyReference.cache
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\MainWindow.g.cs
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\App.g.cs
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary_MarkupCompile.cache
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary_MarkupCompile.lref
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\MainWindow.baml
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.g.resources
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.Properties.Resources.resources
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csproj.GenerateResource.cache
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csproj.CoreCompileInputs.cache
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.exe
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.pdb
