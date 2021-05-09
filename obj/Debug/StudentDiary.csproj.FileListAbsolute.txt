@@ -13,3 +13,17 @@ C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csproj.GenerateResource.ca
 C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csproj.CoreCompileInputs.cache
 C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.exe
 C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.pdb
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\AddEditStudentView.g.cs
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\AddEditStudentView.baml
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\ControlzEx.dll
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\MahApps.Metro.dll
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\ControlzEx.pdb
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\ControlzEx.xml
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\MahApps.Metro.pdb
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\MahApps.Metro.xml
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\csharp\Wpf2021\StudentDiary\bin\Debug\de\MahApps.Metro.resources.dll
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\StudentDiary.csproj.CopyComplete
+C:\csharp\Wpf2021\StudentDiary\obj\Debug\App.baml
